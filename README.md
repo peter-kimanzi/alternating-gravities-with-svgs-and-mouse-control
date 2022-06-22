@@ -4,7 +4,6 @@ alternating gravities with svgs and mouse control using matter.js library
 
 
 
-Project Management Dashboard UI
 
 ## Technologies used
 
