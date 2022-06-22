@@ -18,4 +18,3 @@ https://peter-kimanzi.github.io/alternating-gravities-with-svgs-and-mouse-contro
 
 
 
-![wh](https://user-images.githubusercontent.com/71552773/172792526-7a70ef95-e224-49e2-82b8-fba6ef00d6e8.PNG)
