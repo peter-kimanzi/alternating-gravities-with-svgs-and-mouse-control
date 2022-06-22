@@ -10,7 +10,7 @@ alternating gravities with svgs and mouse control using matter.js library
 
 ## View live site
 
-https://peter-kimanzi.github.io/Project-Management-Dashboard-UI/
+https://peter-kimanzi.github.io/alternating-gravities-with-svgs-and-mouse-control/
 
 ## star this repo
 
