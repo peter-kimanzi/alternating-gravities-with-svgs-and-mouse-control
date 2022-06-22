@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+*:focus,
+*::before:focus,
+*::after:focus {
+  outline: none;
+}
+
+* {
+  font-family: monaco, courier;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #0a0618;
+}
+
+svg {
+  display: none;
+}
